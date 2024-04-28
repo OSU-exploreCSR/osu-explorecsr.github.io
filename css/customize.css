@@ -76,13 +76,13 @@ footer {
  *  Profile photos
  */
 .profile {
-    background-image: url('../resources/shhong_profile.png');
+    background-image: url('../resources/exploreCSR_logo.png');
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .profile:hover {
-    background-image: url('../resources/shhong_profile_cloaked.png');
+    background-image: url('../resources/exploreCSR_logo.png');
 }
 
 .profile:hover .overlay {
